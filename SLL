@@ -1,0 +1,18 @@
+//PRINTING A LIST
+
+Enter the number of the elements of the list: 5
+The elements of the list given are : 11 22 33 44 55
+11-> 22-> 33-> 44-> 55-> END
+
+//INSERT AT BEGINNING
+
+ENter the number of elemnts to create a list:
+5
+The elements of the list given are : 11 22 33 44 55
+11-> 22-> 33-> 44-> 55-> END
+ENter the value to insert at beginning of the list : 23
+23-> 11-> 22-> 33-> 44-> 55-> END
+
+//INSERT AT ENDING
+
+
