@@ -1,0 +1,14 @@
+SYMBOL TABLE : 
+Symbol Table is an important data structure created and maintained by the compiler in order to keep track of 
+semantics of variables i.e. it stores information about the scope and binding information about names, information
+about instances of various entities such as variable and function names, classes, objects, etc. 
+
+=> Access time of symbol table :
+                  Insertion      LOokup Time
+Unordered Array : 0(1)           0(n)
+Ordered Array :   0(n)           0(logn)
+Unordered LL :    0(1)           0(n)
+Ordered LL :      0(n)           0(n)
+Search Tree :     0(logn)        0(logn)
+Hash Table :      0(1)           0(1)
+
