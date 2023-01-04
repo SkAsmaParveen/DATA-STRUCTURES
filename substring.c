@@ -27,3 +27,7 @@ int main()
     }
     printf("Largest substring is of length: %d\n", max);
 }
+
+OUTPUT:
+Enter a string: 10111101
+Largest substring is of length: 4
