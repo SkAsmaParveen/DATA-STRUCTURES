@@ -63,3 +63,8 @@ int main()
     peek();
     
 }
+
+OUTPUT:
+2 3 -1
+3 -1
+3 
